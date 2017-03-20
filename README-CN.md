@@ -12,6 +12,8 @@
 
 <img src="http://gtms04.alicdn.com/tps/i4/TB1sc5IIFXXXXXOaXXXmZ78YFXX-1100-600.png_400x400.jpg" vspace="10px" align="right" >
 
+[scrollView 复用视图](http://pingguohe.net/2016/01/31/lazyscroll.html)【和这个类似呢】
+
 --------------------------
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
